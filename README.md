@@ -1,4 +1,3 @@
-Vivek Gera, [05-09-2022 06:17 PM]
 Hi 👋 My name is Vivek Gera
 ===========================
 
